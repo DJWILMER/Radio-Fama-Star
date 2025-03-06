@@ -167,7 +167,7 @@ body {
 
   <div class="station-info">
     <div>
-      <p>DJ Alex -TLf. 932 373 367 </p>
+      <p>DJ Alex -TLf. 932 373 367</p>
       <p>Transmitiendo desde Olmos, Lambayeque Chiclayo peru </p>
     </div>
     <div class="social-links">
